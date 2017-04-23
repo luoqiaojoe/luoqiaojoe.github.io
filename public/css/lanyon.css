@@ -652,6 +652,10 @@ a.sidebar-nav-item:focus {
   margin-top: 10px;
 }
 
+.post-content img {
+  width: auto;
+}
+
 /*阅读全文*/
 .post-content .readmore a {
   font-size: 0.7rem;
