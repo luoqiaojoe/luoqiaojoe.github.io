@@ -653,7 +653,7 @@ a.sidebar-nav-item:focus {
 }
 
 .post-content img {
-  width: auto;
+  width: 60%;
 }
 
 /*阅读全文*/
