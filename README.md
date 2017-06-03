@@ -1,7 +1,7 @@
-##this is my blog
-博客搭载在github上，地址:soohu.github.io
+## this is my blog
+博客搭载在github上，地址:luoqiaojoe.github.io
 
-##Usage
+## Usage
 如果觉得可以的话可以直接clone这个项目
 
 post
@@ -13,10 +13,10 @@ post
 * tag
 
 
-##Options
+## Options
 施工中
 
-##Development
+## Development
 1. 添加了多说评论插件
 2. 修改博客样式更偏向中文
 3. 博客样式个人化修改
@@ -25,15 +25,15 @@ post
 6. ...
 
 
-##Improvement
+## Improvement
 1. 提高响应式
 
 
-##Author
+## Author
 博客原作者:Mark Otto 
 [github](github.com/mdo)
 
-博客修改:SooHu
+博客修改:luoqiaojoe
 
-##License
+## License
 MIT
